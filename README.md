@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ment1sek
 - 👀 I’m interested in Hacking and making tools
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML
 - 📫 You can join my Discord server : https://discord.gg/j5ZGjPhuSc
 
 <!---
